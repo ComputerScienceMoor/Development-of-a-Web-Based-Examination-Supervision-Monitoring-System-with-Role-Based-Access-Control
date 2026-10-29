@@ -1,2 +1,2 @@
 # Development-of-a-Web-Based-Examination-Supervision-Monitoring-System-with-Role-Based-Access-Control
-Sikiru Jelilat Apeke  (HNDSWD/24/025) 
+Sikiru Jelilat Apeke  (HNDSWD/24/025) This project focuses on developing a web-based system for monitoring examination supervision activities at the Federal College of Animal Health and Production Technology (FCAH&PT). The system is designed to improve the management and monitoring of examination supervisors, enhance accountability, and ensure proper supervision during examinations. It uses Role-Based Access Control (RBAC) to ensure that users can access only the features permitted by their assigned roles.
